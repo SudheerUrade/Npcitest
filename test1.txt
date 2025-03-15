@@ -14,4 +14,9 @@ cdc5435 (HEAD -> main, origin/main, origin/HEAD) added test1.txt
 036c5a9 added new file
 e133eba updated script
 f7187dc Initial commit
-@SudheerUrade ➜ /workspaces/codespaces-blank/Npcitest (main) $ 
+
+cdc5435 (HEAD -> main, origin/main, origin/HEAD) added test1.txt
+76f4aae Modified test.txt
+036c5a9 added new file
+e133eba updated script
+f7187dc Initial commit
