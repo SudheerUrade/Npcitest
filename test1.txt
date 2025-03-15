@@ -1,0 +1,17 @@
+@SudheerUrade ➜ /workspaces/codespaces-blank/Npcitest (main) $ git push
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (9/9), 716 bytes | 716.00 KiB/s, done.
+Total 9 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/SudheerUrade/Npcitest.git
+   e133eba..cdc5435  main -> main
+@SudheerUrade ➜ /workspaces/codespaces-blank/Npcitest (main) $ git log --oneline
+cdc5435 (HEAD -> main, origin/main, origin/HEAD) added test1.txt
+76f4aae Modified test.txt
+036c5a9 added new file
+e133eba updated script
+f7187dc Initial commit
+@SudheerUrade ➜ /workspaces/codespaces-blank/Npcitest (main) $ 
